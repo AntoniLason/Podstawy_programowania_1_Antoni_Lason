@@ -1,0 +1,3 @@
+F:/Programowanie/C++/PP20330/cmake-build-debug/CMakeFiles/PP20330.dir
+F:/Programowanie/C++/PP20330/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Programowanie/C++/PP20330/cmake-build-debug/CMakeFiles/rebuild_cache.dir
